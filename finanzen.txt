@@ -1,0 +1,3 @@
+Einnahmen=470.0
+Ausgaben=220.0
+Kontostand=726.0

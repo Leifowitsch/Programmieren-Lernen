@@ -1,0 +1,2 @@
+import unittest
+from Passwort__ersteller import stärke
